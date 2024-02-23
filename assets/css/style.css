@@ -155,9 +155,10 @@ section[id] {
 	margin-bottom: -5px;
 }
 .navbar-brand img{
-	margin-top: 10px;
-	height: 35px;
-	width: auto;
+margin-top: -23px;
+    margin-left: 3em;
+    height: 87px;
+    width: auto;
 }
 
 .navbar-brand,
