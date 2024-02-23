@@ -160,6 +160,9 @@ margin-top: -23px;
     height: 87px;
     width: auto;
 }
+.navbar-brand img:hover{
+transform: scale(1.2);
+}
 
 .navbar-brand,
 .navbar-brand:hover,
