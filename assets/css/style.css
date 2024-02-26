@@ -49,6 +49,7 @@ min-height: 100%;
 
 body {
 display: flex;
+flex-direction: column;
 	font-size: 14px;
 	background: #fff;
 	margin: 0;
@@ -161,7 +162,7 @@ margin-top: -20px;
     width: auto;
 }
 .navbar-brand img:hover{
-transform: scale(1.2);
+transform: scale(1.1);
 }
 
 .navbar-brand,

@@ -125,7 +125,7 @@ bottom: 0;
 	.navbar-default .navbar-collapse,
 	.navbar-default .navbar-form {
 		position: relative;
-		top: 12px;
+		top: 5px;
 		left: -16px;
 		width: 104.6%;
 		border-color: transparent;
